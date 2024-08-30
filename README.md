@@ -22,6 +22,8 @@
 
 
 ## Languages & Tools
+
+
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -63,14 +65,15 @@
 
 ## Contact
 <p align="left">
-  <a href="https://discord.gg/DFctMkEB" terget ="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/DFctMkEB" target="blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <span>Discord: noam_k_dev</span>
   <br />
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <span>   Email: nyduo.buisness@gmail.com</span>
+  <span>&emsp;Email: nyduo.buisness@gmail.com</span>
 </p>
+
 
 
   
