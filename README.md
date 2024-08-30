@@ -11,3 +11,9 @@
 - ⚡ Fun fact: prefer low level instead of high 
 
   ⌨️ my main is c
+
+
+
+  [![StrixViper's GitHub | Stats](https://stats.quira.sh/StrixViper/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)
+
+  
