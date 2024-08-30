@@ -53,6 +53,7 @@
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   </a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/320px-Blazor.png" alt="Blazor Logo" width="40"></a>
 </p>
 
 ## Contact
