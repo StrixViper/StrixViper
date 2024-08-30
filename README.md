@@ -69,7 +69,7 @@
 ## Operation systems and distributions
 
   <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows🪟" />
   </a>
 
    <a href="https://www.kali.org/" target="_blank">
