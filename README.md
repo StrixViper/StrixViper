@@ -50,6 +50,9 @@
 
 ## Tools & Frameworks
 
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FA50A5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 
   <a href="https://www.vmware.com/" target="_blank">
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
