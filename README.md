@@ -66,6 +66,16 @@
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </a>
+
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  </a>
+  <a href="https://www.cyber.gov.au/acsc/view-all-content/what-is-cyber-security" target="_blank">
+    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
+  </a>
+  <a href="https://www.networkworld.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
+  </a>
  
 </p>
 
