@@ -59,7 +59,11 @@
    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
     <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   </a>
-
+  
+  <a href="https://www.networkworld.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Networking-0077B5?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
+  </a>
+  
    <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   </a>
@@ -71,11 +75,9 @@
     <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   </a>
   <a href="https://www.cyber.gov.au/acsc/view-all-content/what-is-cyber-security" target="_blank">
-    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/Cybersecurity-333333?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
   </a>
-  <a href="https://www.networkworld.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
-  </a>
+
  
 </p>
 
