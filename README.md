@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me nyduo.buisness@gmail.com
 - 😄 Pronouns: male
-- ⚡ Fun fact: prefer low level instead of high 
+- ⚡ Fun fact: prefer programming on low level languages instead of high level
 
 - ⌨️ my main is c
 
