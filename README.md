@@ -66,7 +66,7 @@
   <a href="https://discord.gg/DFctMkEB" terget ="blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <span>   Discord: noam_k_dev</span>
+  <span>Discord: noam_k_dev</span>
   <br />
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   <span>   Email: nyduo.buisness@gmail.com</span>
