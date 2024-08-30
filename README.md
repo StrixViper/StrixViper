@@ -16,4 +16,6 @@
 
   [![StrixViper's GitHub | Stats](https://stats.quira.sh/StrixViper/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)
 
+
+  [![StrixViper's GitHub | Languages Over Time](https://stats.quira.sh/StrixViper/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)
   
