@@ -101,7 +101,7 @@
   <span>Discord: noam_k_dev</span>
   <br />
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <h1><span>&emsp;Email: nyduo.buisness@gmail.com</span></h1>
+  <h1>&emsp;Email: nyduo.buisness@gmail.com</h1>
 </p>
 
 
