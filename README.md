@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StrixViper
+is it possible to make that the first two widgets will be side by side insterad line under line:- 👋 Hi, I’m @StrixViper
 - 👀 I’m interested in Low Level programming And Linux
 - 🤖 I’m currently learning c/cyber/linux
 - 💻languages I have experienced with: c/c#/js/py/sql/c++
@@ -9,17 +9,7 @@
 
 
 
-<div style="display: flex; gap: 20px;">
-  <div>
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=StrixViper">
-      <img src="https://stats.quira.sh/StrixViper/github?theme=dark" alt="StrixViper's GitHub | Stats"/>
-    </a>
-  </div>
-  <div>
-    <img src="https://leetcard.jacoblin.cool/noam_kedmi?ext=activity" alt="Leetcode activity card"/>
-  </div>
-</div>
-
+[![StrixViper's GitHub | Stats](https://stats.quira.sh/StrixViper/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)![](https://leetcard.jacoblin.cool/noam_kedmi?ext=activity)
 
 
   [![StrixViper's GitHub | Languages Over Time](https://stats.quira.sh/StrixViper/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)
