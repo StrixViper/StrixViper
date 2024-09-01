@@ -9,7 +9,17 @@
 
 
 
-[![StrixViper's GitHub | Stats](https://stats.quira.sh/StrixViper/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)![](https://leetcard.jacoblin.cool/noam_kedmi?ext=activity)
+<div style="display: flex; gap: 20px;">
+  <div>
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=StrixViper">
+      <img src="https://stats.quira.sh/StrixViper/github?theme=dark" alt="StrixViper's GitHub | Stats"/>
+    </a>
+  </div>
+  <div>
+    <img src="https://leetcard.jacoblin.cool/noam_kedmi?ext=activity" alt="Leetcode activity card"/>
+  </div>
+</div>
+
 
 
   [![StrixViper's GitHub | Languages Over Time](https://stats.quira.sh/StrixViper/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=StrixViper)
