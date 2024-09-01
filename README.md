@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @StrixViper
 - 👀 I’m interested in Low Level programming And Linux
 - 🤖 I’m currently learning c/cyber/linux
-
 - 💻languages I have experienced with: c/c#/js/py/sql/c++
 - 👾operation systems i work with: linux/windows
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me nyduo.buisness@gmail.com
-- 😄 Pronouns: male
+- 📫 How to reach me: nyduo.buisness@gmail.com
 - ⚡ Fun fact: prefer programming on low level languages instead of high level
-
 - ⌨️ my main is c
 
 
