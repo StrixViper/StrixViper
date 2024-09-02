@@ -1,4 +1,4 @@
-is it possible to make that the first two widgets will be side by side insterad line under line:- 👋 Hi, I’m @StrixViper
+- 👋 Hi, I’m @StrixViper
 - 👀 I’m interested in Low Level programming And Linux
 - 🤖 I’m currently learning c/cyber/linux
 - 💻languages I have experienced with: c/c#/js/py/sql/c++
