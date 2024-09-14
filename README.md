@@ -45,7 +45,7 @@
 
 ## Tools & Frameworks
 
-  <a href="[https://leetcode.com/](https://leetcode.com/u/noam_kedmi/)" target="_blank">
+  <a href="https://leetcode.com/u/noam_kedmi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FA50A5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
