@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrixViper
 - 👀 I’m interested in Low Level programming And Linux
-- 🤖 I’m currently learning c/cyber/linux
+- 🤖 I’m currently learning: DSA , c , linux
 - 💻languages I have experienced with: c/c#/js/py/sql/c++
 - 👾operation systems i work with: linux/windows
 - 📫 How to reach me: nyduo.buisness@gmail.com
